@@ -9,3 +9,14 @@ set {unsigned char}0x0000564ad277c1cb = 0x90
 set {unsigned char}0x0000564ad277c1cc = 0x90
 set {unsigned char}0x0000564ad277c1cd = 0x90
 0x00005593093b71c8
+
+0f 84 95 00 00 00
+
+0f 85 95 00 00 00
+
+
+1425:   04 41                   add    $0x41,%al
+
+set {unsigned char}0x000055e3dc120249 = 0x2b
+217
+1249
